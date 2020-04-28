@@ -1,0 +1,8 @@
+{
+  "goodbye": "Goodbye {name}",
+  "message": "hello i18n !!",
+  "email":"Your email is: {email}",
+  "car":"car | {count} cars",
+  "person":" no people | person | {count} people",
+  "apples": "no apples | 1 apple | {n} apples"
+}

@@ -1,0 +1,9 @@
+{
+  "goodbye": "dovidenja",
+  "message": "dobrodosli",
+  "email":"Your email is: {email}",
+  "car":"auto | automobila",
+  "person":"nema ljudi | čovjek | {count} ljudi",
+  "apples": "nema jabuka | 1 jabuka | {n}xjabuka"
+
+}
